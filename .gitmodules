@@ -1,0 +1,3 @@
+[submodule "recall-ui"]
+	path = recall-ui
+	url = https://github.com/KNCal/recall-ui
